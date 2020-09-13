@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am iGniSs
+
+#### I am Plugin Developer living in Slovak Republic.
+- I mainly focus on developing Spigot plugins using Kotlin or Java
+- I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -46,7 +50,3 @@ Linux                    11 hrs 5 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
