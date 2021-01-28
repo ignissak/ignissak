@@ -34,14 +34,13 @@ Sunday       104 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Java                     8 mins              █████████████████████████   99.9% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
