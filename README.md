@@ -34,13 +34,13 @@ Sunday       149 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Kotlin                   31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
