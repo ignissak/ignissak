@@ -34,18 +34,16 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Kotlin                   47 mins             ███████████████████████░░   94.25% 
-Groovy                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
