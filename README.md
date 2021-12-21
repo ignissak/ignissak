@@ -5,6 +5,8 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%205%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
