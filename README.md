@@ -5,8 +5,6 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2029%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -47,5 +45,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/04/2022 21:59:42 UTC
+ Last Updated on 01/04/2022 22:01:44 UTC
 <!--END_SECTION:waka-->
