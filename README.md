@@ -5,6 +5,8 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2059%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -34,16 +36,17 @@ Sunday       37 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               1 min               █████████████████░░░░░░░░   71.4% 
+Java                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/04/2022 22:01:31 UTC
+ Last Updated on 13/04/2022 22:03:33 UTC
 <!--END_SECTION:waka-->
