@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2053%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
@@ -16,7 +16,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm most productive on Sunday** 
 
 ```text
 Monday       24 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
@@ -30,7 +30,7 @@ Sunday       26 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Europe/Budapest
@@ -52,5 +52,5 @@ Windows                  1 hr 10 mins        ███████░░░░�
 ```
 
 
- Last Updated on 12/06/2022 07:35:57 UTC
+ Last Updated on 12/06/2022 07:38:03 UTC
 <!--END_SECTION:waka-->
