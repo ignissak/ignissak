@@ -5,7 +5,7 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2034%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,16 +36,21 @@ Sunday       29 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 25 mins       ███████████████████████░░   93.2% 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+requirements.txt         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 hrs 39 mins       ████████████████████████░   99.42% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/06/2022 22:01:31 UTC
+ Last Updated on 19/06/2022 22:03:12 UTC
 <!--END_SECTION:waka-->
