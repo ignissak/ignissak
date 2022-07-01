@@ -5,7 +5,7 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -36,20 +36,16 @@ Sunday       27 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-HTML                     34 mins             █████████████████████░░░░   86.23% 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/06/2022 21:19:23 UTC
+ Last Updated on 01/07/2022 18:50:39 UTC
 <!--END_SECTION:waka-->
