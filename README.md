@@ -36,16 +36,17 @@ Sunday       28 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 35 mins       █████████████████████████   99.89% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/09/2022 22:01:06 UTC
+ Last Updated on 21/09/2022 22:02:50 UTC
 <!--END_SECTION:waka-->
