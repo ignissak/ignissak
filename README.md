@@ -5,7 +5,7 @@
 - I contribute a bit in open source projects
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,5 +53,5 @@ Windows                  12 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 17/12/2022 20:55:50 UTC
+ Last Updated on 17/12/2022 20:57:44 UTC
 <!--END_SECTION:waka-->
