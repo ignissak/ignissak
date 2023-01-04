@@ -36,16 +36,16 @@ Sunday       15 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   28 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/01/2023 23:00:35 UTC
+ Last Updated on 04/01/2023 23:02:20 UTC
 <!--END_SECTION:waka-->
