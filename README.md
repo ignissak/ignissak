@@ -1,8 +1,8 @@
-### Hi there 👋, I am iGniSs
+### Hi there 👋, I am Jakub 'igniss' Bordáš
 
-#### I am Plugin Developer living in Slovak Republic.
-- I mainly focus on developing Spigot plugins using Kotlin or Java
-- I contribute a bit in open source projects
+#### I am Student of Computer Science in Bratislava
+To know me better, head over to my [website](https://bordas.sk).
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2037%20mins-blue)
