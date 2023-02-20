@@ -5,7 +5,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2037%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,5 +53,5 @@ Linux                    1 hr 23 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 20/02/2023 09:52:54 UTC
+ Last Updated on 20/02/2023 09:53:24 UTC
 <!--END_SECTION:waka-->
