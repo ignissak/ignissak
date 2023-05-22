@@ -3,7 +3,7 @@
 #### I am Student of Computer Science in Bratislava
 To know me better, head over to my [website](https://bordas.sk).
 
-[![My Skills]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=js,html,css,figma,svelte,java,kotlin,python,postgresql,typescript,nest,nodejs))](https://bordas.sk)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,svelte,java,kotlin,python,postgresql,typescript,nest,nodejs)](https://bordas.sk)
 
 
 <!--START_SECTION:waka-->
