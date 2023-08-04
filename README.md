@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,15 +36,20 @@ Sunday                   249 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               59 mins             ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Java                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+XML                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Groovy                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 3 hrs 22 mins       █████████████████████████   98.83 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/08/2023 22:09:31 UTC
+ Last Updated on 04/08/2023 22:39:33 UTC
 <!--END_SECTION:waka-->
