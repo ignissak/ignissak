@@ -36,17 +36,15 @@ Sunday                   302 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Svelte                   33 mins             ████████████████████░░░░░   79.23 % 
-JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Prisma                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/12/2023 23:00:10 UTC
+ Last Updated on 22/12/2023 23:02:37 UTC
 <!--END_SECTION:waka-->
