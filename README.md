@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,5 +48,5 @@ PhpStorm                 32 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/09/2024 15:25:20 UTC
+ Last Updated on 01/09/2024 15:29:52 UTC
 <!--END_SECTION:waka-->
