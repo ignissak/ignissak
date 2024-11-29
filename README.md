@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C597%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C597%20hrs%2031%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -47,5 +47,5 @@ VS Code                  10 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 29/11/2024 10:04:42 UTC
+ Last Updated on 29/11/2024 18:51:14 UTC
 <!--END_SECTION:waka-->
