@@ -36,12 +36,12 @@ Sunday                   440 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/12/2024 23:03:35 UTC
+ Last Updated on 17/12/2024 23:08:15 UTC
 <!--END_SECTION:waka-->
