@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2026%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -36,12 +36,14 @@ Sunday                   440 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Kotlin                   17 mins             █████████████████████████   100.00 % 
+Kotlin                   17 mins             █████████████████░░░░░░░░   69.98 % 
+Python                   7 mins              ████████░░░░░░░░░░░░░░░░░   30.02 % 
 
 🔥 Editors: 
-Android Studio           17 mins             █████████████████████████   100.00 % 
+Android Studio           17 mins             █████████████████░░░░░░░░   69.98 % 
+VS Code                  7 mins              ████████░░░░░░░░░░░░░░░░░   30.02 % 
 ```
 
 
- Last Updated on 20/12/2024 23:03:55 UTC
+ Last Updated on 20/12/2024 23:08:49 UTC
 <!--END_SECTION:waka-->
