@@ -36,12 +36,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   54 mins             ████████████████████████░   94.66 % 
+SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/12/2024 23:00:25 UTC
+ Last Updated on 30/12/2024 23:01:01 UTC
 <!--END_SECTION:waka-->
