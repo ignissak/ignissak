@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,5 +49,5 @@ Android Studio           36 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/01/2025 23:52:53 UTC
+ Last Updated on 23/01/2025 23:53:33 UTC
 <!--END_SECTION:waka-->
