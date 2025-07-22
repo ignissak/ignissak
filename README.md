@@ -36,13 +36,12 @@ Sunday                   446 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Vue.js                   21 mins             █████████████████████░░░░   85.96 % 
-TypeScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2025 22:02:34 UTC
+ Last Updated on 22/07/2025 22:08:04 UTC
 <!--END_SECTION:waka-->
