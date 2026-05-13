@@ -7,46 +7,8 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%2014%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-🌆 Daytime                1426 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                1397 commits        ███████████░░░░░░░░░░░░░░   42.46 % 
-🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   636 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Tuesday                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Thursday                 842 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Friday                   302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Saturday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Sunday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%2057%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Budapest
-
-💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Vue                      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 56 mins      ████████████████████░░░░░   78.23 % 
-Unknown Editor           3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-```
-
-
- Last Updated on 12/05/2026 20:25:49 UTC
+ Last Updated on 13/05/2026 20:29:34 UTC
 <!--END_SECTION:waka-->
