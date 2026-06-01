@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C585%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C584%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -48,5 +48,5 @@ Claude Code              2 hrs 15 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 31/05/2026 19:58:41 UTC
+ Last Updated on 01/06/2026 22:01:11 UTC
 <!--END_SECTION:waka-->
