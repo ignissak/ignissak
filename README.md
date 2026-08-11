@@ -36,17 +36,17 @@ Sunday                   738 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-C#                       8 hrs 4 mins        █████████████░░░░░░░░░░░░   53.13 % 
-Markdown                 3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Unity3D Asset            1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Diff                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+C#                       4 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Unity3D Asset            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Diff                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 31 mins      █████████████████████░░░░   82.44 % 
-VS Code                  2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Claude Code              9 hrs 26 mins       ██████████████████████░░░   86.70 % 
+VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
 
- Last Updated on 10/08/2026 19:44:57 UTC
+ Last Updated on 11/08/2026 19:51:52 UTC
 <!--END_SECTION:waka-->
