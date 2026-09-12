@@ -36,17 +36,17 @@ Sunday                   738 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Vue                      6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-TypeScript               3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-PHP                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Vue                      5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
+TypeScript               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Swift                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+PHP                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 32 mins      █████████████████████░░░░   82.99 % 
-VS Code                  2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Claude Code              13 hrs 55 mins      █████████████████████░░░░   83.15 % 
+VS Code                  2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 ```
 
 
- Last Updated on 11/09/2026 21:15:08 UTC
+ Last Updated on 12/09/2026 20:54:31 UTC
 <!--END_SECTION:waka-->
