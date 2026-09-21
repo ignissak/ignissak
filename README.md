@@ -7,23 +7,23 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                715 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌆 Daytime                1692 commits        ███████████░░░░░░░░░░░░░░   42.45 % 
-🌃 Evening                1426 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌞 Morning                715 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌆 Daytime                1692 commits        ███████████░░░░░░░░░░░░░░   42.44 % 
+🌃 Evening                1427 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
 🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Monday                   744 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 Tuesday                  338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Thursday                 1034 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Wednesday                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Thursday                 1034 commits        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
 Friday                   348 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 Saturday                 383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Sunday                   738 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
@@ -36,17 +36,17 @@ Sunday                   738 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Vue                      6 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-PHP                      2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Vue                      8 hrs 18 mins       ██████████████░░░░░░░░░░░   54.80 % 
+PHP                      2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 16 mins       █████████████░░░░░░░░░░░░   51.31 % 
-VS Code                  6 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.69 % 
+VS Code                  8 hrs 22 mins       ██████████████░░░░░░░░░░░   55.17 % 
+Claude Code              6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
 ```
 
 
- Last Updated on 20/09/2026 21:03:43 UTC
+ Last Updated on 21/09/2026 22:11:33 UTC
 <!--END_SECTION:waka-->
