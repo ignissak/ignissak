@@ -7,7 +7,7 @@ To know me better, head over to my [website](https://bordas.sk).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C776%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,17 +36,17 @@ Sunday                   738 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Vue                      6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.64 % 
-TypeScript               3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-PHP                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Vue                      7 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.96 % 
+TypeScript               5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+PHP                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 59 mins       ███████████████░░░░░░░░░░   60.99 % 
-Claude Code              6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
+VS Code                  14 hrs 9 mins       █████████████████░░░░░░░░   68.38 % 
+Claude Code              6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
 ```
 
 
- Last Updated on 30/09/2026 22:35:06 UTC
+ Last Updated on 01/10/2026 22:55:52 UTC
 <!--END_SECTION:waka-->
