@@ -36,18 +36,18 @@ Sunday                   767 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Vue                      3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-C#                       2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-PHP                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Vue                      2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+C#                       2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+TypeScript               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+PHP                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       █████████████████░░░░░░░░   67.73 % 
-OMP                      4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  7 hrs 23 mins       █████████████████░░░░░░░░   67.90 % 
+OMP                      3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 
- Last Updated on 30/10/2026 22:40:26 UTC
+ Last Updated on 31/10/2026 21:52:54 UTC
 <!--END_SECTION:waka-->
